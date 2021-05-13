@@ -3,4 +3,7 @@ Test des commandes apprises:
 1)Capture du fichier dans le compte local ##Fork
 2)Édition et ajout d'un fichier
 3)Modification de celui ##Commit
-Création d'un problème (ici modification ajoutée a partir de Github Desktop)
+
+4)Création d'un problème (Changement ici sur Github navigateur)
+On a résolu le problème de conflit en utilisant le "useme" et choisissant
+la modification crée a partir du navigateur et supprimant celle a partir du Desktop
